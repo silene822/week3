@@ -2,12 +2,14 @@ h1
 {
     color:purple;
     font-size: 100;
+    background: mediumturquoise;
 }
 p1
 {
     background-color: rgb(255,165,0,0.9)
     
 }
+
 body
 {
       background-color: palevioletred;
@@ -17,3 +19,4 @@ span
  {
      background-color: navy;
  }
+ 
