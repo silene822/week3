@@ -1,8 +1,8 @@
 h1
 {
-    color:rgb(235, 226, 235);
+    color:rgb(75, 42, 75);
     font-size: 200;
-    background: mediumturquoise;
+    /*background: mediumturquoise;*/
 }
 p1
 {
@@ -19,4 +19,33 @@ span
  {
      background-color: navy;
  }
- 
+ .jumbotron
+ {
+     margin-top: 20px;
+    background-color:rgb(206, 174, 230);
+     background-image: url("pakistan.jpg");
+     background-size: cover;
+     background-position: center center;
+     background-repeat: no-repeat;
+     height: 60vh;
+     width: 100%;
+     
+ }
+ h3
+ {
+text-shadow: 2px 2px 8px #111;
+
+ }
+ .button {
+    background-color: rgb(170, 139, 196);
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button5 {border-radius: 12%;}
